@@ -2,6 +2,9 @@
 
 An interactive web application demonstrating language model probabilities, step-by-step perplexity calculation, and next-token predictions in real time.
 
+🔗 **Live Vercel Demo:** [https://perplexity-explorer-hazel.vercel.app](https://perplexity-explorer-hazel.vercel.app)  
+🌐 **GitHub Pages Demo:** [https://ayush-aiwbk.github.io/perplexity-explorer/](https://ayush-aiwbk.github.io/perplexity-explorer/)
+
 Built as a single-file application with clean HTML, CSS, and plain JavaScript—no frameworks, no backend, and no API keys required. It runs the `Xenova/distilgpt2` language model directly in your browser using **Transformers.js**.
 
 ## Features
